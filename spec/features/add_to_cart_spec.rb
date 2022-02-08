@@ -26,6 +26,6 @@ RSpec.feature "Visitor adds product to the cart", type: :feature, js: true do
     save_screenshot
 
     # VERIFY
-    within('nav.navbar') { expect(page).to have_content('1') }
+    within('nav.navbar') { expect(page).to have_content('My Cart (1)') }
   end
 end
