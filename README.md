@@ -2,6 +2,25 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Screenshots
+
+
+- ### Main page (Products)
+
+![Main page (Products)](https://github.com/hyperamir/Jungle-Rails/blob/master/docs/home_page_products.png?raw=true)
+
+
+- ### My cart (Check out)
+
+![My cart (Check out)](https://github.com/hyperamir/Jungle-Rails/blob/master/docs/my_cart.png?raw=true)
+
+
+- ### Admin (Dashboard)
+
+![Admin (Dashboard)](https://github.com/hyperamir/Jungle-Rails/blob/master/docs/admin_dashboard.png?raw=true)
+
+
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
